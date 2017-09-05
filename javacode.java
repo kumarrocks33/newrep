@@ -1,7 +1,10 @@
 
 
 public class DemoOnGitHub
-{
-  system.out.println("Hello World");
+{ 
+  public static void main string [] agrs
+  {
+    system.out.println("Hello World");
+  }
 }
 exit();
